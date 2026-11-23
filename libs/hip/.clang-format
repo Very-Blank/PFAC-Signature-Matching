@@ -1,0 +1,9 @@
+BasedOnStyle: Chromium
+Standard: Auto
+
+ColumnLimit: 100
+
+InsertBraces: true
+InsertNewlineAtEOF: true
+IncludeBlocks: Regroup
+

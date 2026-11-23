@@ -1,7 +1,7 @@
 # Info
 
 This was a project that I made for an university course and I was pretty proud of it, so I didn't want it be hidden in some private repo for the rest of time.
-The git history had to be removed since the old repo also contained other exercices etc.
+The git history had to be removed since the old repo also contained other exercices etc. I left [REPORT.md](./REPORT.md) as it has more info about the project.
 
 ## Project
 
